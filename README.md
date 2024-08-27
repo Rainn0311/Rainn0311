@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 
 
-<!--
-**scott123keng/scott123keng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm a software engineering student at university (currently in Grade 3).
 
-Here are some ideas to get you started:
+- I pity that I have not studied and learned from this website until today.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- But as the saying goes: 种一棵树最好的时间是十年前，其次是现在， 
+which means: The best time to plant a tree is ten years ago. The second best time is now.
+So moving up and starting coding is what I should do now.
+
+- I'm currently working on front-end development, and know a little about back-end as well.
+
+- How to reach me: 3298257615@qq.com or super123keng@gmail.com
